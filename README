@@ -1,0 +1,12 @@
+
+======================================================
+This application of mine will print all the
+tweets/re-tweets you/any have/has done so far.
+
+
+Heavily depending on module BeautifulSoup and
+urllib2, this module takes your twitter handle
+or anybody's twitter username as keyboard input,
+and prints/outputs all the tweets.
+
+=======================================================
